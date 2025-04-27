@@ -51,7 +51,7 @@ const CartPage = () => {
     if (item.quantity > 1) {
       try {
         const response = await fetch(
-          `https://foodapp-server-myfu.onrender.com//carts/${item._id}`,
+          `https://foodapp-server-myfu.onrender.com/carts/${item._id}`,
           {
             method: "PUT",
             headers: {
