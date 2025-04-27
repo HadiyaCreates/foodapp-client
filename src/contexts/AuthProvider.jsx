@@ -58,7 +58,8 @@ const AuthProvider = ({ children }) => {
       setUser(currentUser);
       if (currentUser) {
         const userInfo = { email: currentUser.email };
-        axios.post("https://foodapp-server-myfu.onrender.com/jwt", userInfo).then((response) => {
+        const apiUrl = import.meta.env.VITE_API_URL;
+        axios.post(`${apiUrl}/jwt`, userInfo).then((response) => {
             // console.log(response.data.token);
 
 

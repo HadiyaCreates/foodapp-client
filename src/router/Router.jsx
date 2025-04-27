@@ -89,7 +89,7 @@ const router = createBrowserRouter([
         path: "update-menu/:id",
         element: <UpdateMenu />,
         loader: ({ params }) =>
-          fetch(`https://foodapp-server-myfu.onrender.com/menu/${params.id}`),
+          fetch(`${import.meta.env.VITE_API_URL}/menu/${params.id}`),
       },
     ],
   },

@@ -11,8 +11,10 @@ const Order = () => {
   const { refetch, data: orders = [] } = useQuery({
     queryKey: ["orders", user?.email],
     queryFn: async () => {
+      // const res = await fetch(
+      //   `https://foodapp-server-myfu.onrender.com/payments?email=${user?.email}`,
       const res = await fetch(
-        `https://foodapp-server-myfu.onrender.com/payments?email=${user?.email}`,
+        `${import.meta.env.VITE_API_URL}/payments?email=${user?.email}`,
         {
           headers: {
             authorization: `Bearer ${token}`,

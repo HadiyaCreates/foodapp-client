@@ -14,7 +14,7 @@ const Menu = () => {
     // Fetch data from the backend
     const fetchData = async () => {
       try {
-        const response = await fetch("https://foodapp-server-myfu.onrender.com/menu");
+        const response = await fetch(`${import.meta.env.VITE_API_URL}/menu`);
         const data = await response.json();
         setMenu(data);
         setFilteredItems(data); // Initially, display all items
