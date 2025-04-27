@@ -1,0 +1,422 @@
+[
+  {
+    "_id": "68033e97ea844c83fa06930b",
+    "name": "Burger!",
+    "recipe": "special burger ",
+    "image": "https://i.ibb.co/LzhZGfPH/burger.webp",
+    "category": "popular",
+    "price": 281,
+    "createdAt": "2025-04-19T06:11:35.174Z",
+    "__v": 0
+  },
+  {
+    "_id": "68033d1dea844c83fa0692e4",
+    "name": "Berry Bliss Smoothie",
+    "recipe": "A refreshing blend of strawberries, blueberries, raspberries, and blackberries, mixed with yogurt and a touch of honey for a naturally sweet and creamy smoothie.",
+    "image": "https://i.ibb.co/4ZbNdrZZ/smoothies.webp",
+    "category": "popular",
+    "price": 172,
+    "createdAt": "2025-04-19T06:05:17.037Z",
+    "__v": 0
+  },
+  {
+    "_id": "68033cd0ea844c83fa0692de",
+    "name": "Berry Compote Waffle",
+    "recipe": "A golden waffle smothered with a warm, homemade berry compote, offering a rich, sweet topping that's perfect for berry lovers.",
+    "image": "https://i.ibb.co/S4wymp6S/new16.webp",
+    "category": "dessert",
+    "price": 357,
+    "createdAt": "2025-04-19T06:04:00.803Z",
+    "__v": 0
+  },
+  {
+    "_id": "68033c94ea844c83fa0692da",
+    "name": "Raspberry Cheesecake",
+    "recipe": " A velvety cheesecake with a tangy raspberry topping and a hint of vanilla, served on a buttery crust.",
+    "image": "https://i.ibb.co/svDbkC6n/new15.webp",
+    "category": "dessert",
+    "price": 361,
+    "createdAt": "2025-04-19T06:03:00.039Z",
+    "__v": 0
+  },
+  {
+    "_id": "68033c50ea844c83fa0692d5",
+    "name": "Berry Delight Waffle",
+    "recipe": " A warm, crispy waffle topped with an assortment of fresh, juicy berries and drizzled with sweet syrup, creating a perfect burst of fruity freshness.",
+    "image": "https://i.ibb.co/7tnpnsb2/new12.png",
+    "category": "dessert",
+    "price": 207,
+    "createdAt": "2025-04-19T06:01:52.385Z",
+    "__v": 0
+  },
+  {
+    "_id": "68033bf9ea844c83fa0692d0",
+    "name": "Granola Parfait",
+    "recipe": "Layers of creamy yogurt, fresh fruits, and crunchy granola, creating a delightful combination of textures and flavors in every bite.",
+    "image": "https://i.ibb.co/fYvNkWzy/breakfast2.webp",
+    "category": "popular",
+    "price": 289,
+    "createdAt": "2025-04-19T06:00:25.611Z",
+    "__v": 0
+  },
+  {
+    "_id": "68033bbfea844c83fa0692ca",
+    "name": "Gourmet Ice Cream Plate",
+    "recipe": " A luxurious selection of seven premium ice cream flavors, each with its own unique toppings, designed to deliver an unforgettable dessert experience.",
+    "image": "https://i.ibb.co/cWSt7GD/desserts.png",
+    "category": "dessert",
+    "price": 305,
+    "createdAt": "2025-04-19T05:59:27.349Z",
+    "__v": 0
+  },
+  {
+    "_id": "68033b70ea844c83fa0692c6",
+    "name": "Strawberry Shortcake",
+    "recipe": "A delicate sponge cake layered with fresh strawberries and whipped cream, offering a sweet and refreshing treat for any occasion.",
+    "image": "https://i.ibb.co/JwWVmvW6/ds3.png",
+    "category": "dessert",
+    "price": 267,
+    "createdAt": "2025-04-19T05:58:08.661Z",
+    "__v": 0
+  },
+  {
+    "_id": "68033b10ea844c83fa0692ba",
+    "name": "Chocolate Lava Cake",
+    "recipe": "A warm, decadent chocolate cake with a gooey, molten center, served with a scoop of vanilla ice cream.",
+    "image": "https://i.ibb.co/5Xtyp9vP/new02.png",
+    "category": "dessert",
+    "price": 189,
+    "createdAt": "2025-04-19T05:56:32.768Z",
+    "__v": 0
+  },
+  {
+    "_id": "68033ad7ea844c83fa0692b6",
+    "name": "Salted Caramel Cheesecake",
+    "recipe": "A luscious cheesecake with a silky salted caramel topping, balanced by a crunchy graham cracker crust.",
+    "image": "https://i.ibb.co/JWCMfZXS/new03.webp",
+    "category": "dessert",
+    "price": 234,
+    "createdAt": "2025-04-19T05:55:35.525Z",
+    "__v": 0
+  },
+  {
+    "_id": "68033a58ea844c83fa0692b1",
+    "name": "Brownie with Vanilla Ice Cream",
+    "recipe": "A warm, fudgy brownie served with a scoop of creamy vanilla ice cream, creating the perfect balance of rich and smooth flavors.",
+    "image": "https://i.ibb.co/rR9FpH1s/dessert2.webp",
+    "category": "dessert",
+    "price": 201,
+    "createdAt": "2025-04-19T05:53:28.126Z",
+    "__v": 0
+  },
+  {
+    "_id": "680339d0ea844c83fa0692a5",
+    "name": "Broccoli Soup",
+    "recipe": " A smooth and hearty soup made with steamed broccoli, onions, garlic, and vegetable broth, finished with a splash of cream.",
+    "image": "https://i.ibb.co/nsDXsSwn/sp13.jpg",
+    "category": "soup",
+    "price": 106,
+    "createdAt": "2025-04-19T05:51:12.277Z",
+    "__v": 0
+  },
+  {
+    "_id": "680339a9ea844c83fa0692a1",
+    "name": "Spicy Kimchi Soup",
+    "recipe": " A Korean-style soup made with fermented kimchi, tofu, pork, and a spicy broth flavored with gochujang (Korean chili paste).",
+    "image": "https://i.ibb.co/hF6hvgky/sp14.jpg",
+    "category": "soup",
+    "price": 137,
+    "createdAt": "2025-04-19T05:50:33.336Z",
+    "__v": 0
+  },
+  {
+    "_id": "68033932ea844c83fa06928e",
+    "name": "Chicken Tortilla Soup",
+    "recipe": " A flavorful Mexican-inspired soup with shredded chicken, tomatoes, beans, and crispy tortilla strips.",
+    "image": "https://i.ibb.co/JRV3x7yW/sp9.jpg",
+    "category": "soup",
+    "price": 128,
+    "createdAt": "2025-04-19T05:48:34.701Z",
+    "__v": 0
+  },
+  {
+    "_id": "680338f6ea844c83fa06928a",
+    "name": "Seafood Bisque",
+    "recipe": "A creamy, rich soup made with a mix of seafood like shrimp and crab in a flavorful base.",
+    "image": "https://i.ibb.co/fV6kmZWP/sp7.png",
+    "category": "soup",
+    "price": 121,
+    "createdAt": "2025-04-19T05:47:34.740Z",
+    "__v": 0
+  },
+  {
+    "_id": "680338c4ea844c83fa069286",
+    "name": "Miso Soup",
+    "recipe": "A Japanese favorite made with fermented soy paste, tofu, seaweed, and green onions.",
+    "image": "https://i.ibb.co/RG8TBTMq/sp6.png",
+    "category": "soup",
+    "price": 100,
+    "createdAt": "2025-04-19T05:46:44.098Z",
+    "__v": 0
+  },
+  {
+    "_id": "6803388aea844c83fa069282",
+    "name": "Spicy Chili Soup",
+    "recipe": "A hearty soup packed with ground beef, beans, tomatoes, and a mix of spicy chili seasonings for a warming kick.",
+    "image": "https://i.ibb.co/gLmxMvdP/sp5.jpg",
+    "category": "soup",
+    "price": 114,
+    "createdAt": "2025-04-19T05:45:46.304Z",
+    "__v": 0
+  },
+  {
+    "_id": "68033826ea844c83fa06927e",
+    "name": "Vegetable Broth Soup",
+    "recipe": "A simple, clear broth filled with fresh vegetables for a light, healthy option.",
+    "image": "https://i.ibb.co/gMdn8LCv/sp4.png",
+    "category": "soup",
+    "price": 95,
+    "createdAt": "2025-04-19T05:44:06.701Z",
+    "__v": 0
+  },
+  {
+    "_id": "680337f5ea844c83fa06927a",
+    "name": "Spicy Szechuan Soup",
+    "recipe": "Bold, fiery soup with Szechuan peppers, tofu, and vegetables, packed with heat and flavor.",
+    "image": "https://i.ibb.co/B57bfTsB/sp3.jpg",
+    "category": "soup",
+    "price": 130,
+    "createdAt": "2025-04-19T05:43:17.692Z",
+    "__v": 0
+  },
+  {
+    "_id": "6803377dea844c83fa06926c",
+    "name": "Spicy Prawn Soup",
+    "recipe": " A bold and fiery broth with juicy prawns, chili, and fresh herbs.",
+    "image": "https://i.ibb.co/ch2nWzFQ/sp2.png",
+    "category": "soup",
+    "price": 118,
+    "createdAt": "2025-04-19T05:41:17.928Z",
+    "__v": 0
+  },
+  {
+    "_id": "680336d7ea844c83fa069263",
+    "name": "Roasted Veggie Couscous Salad",
+    "recipe": "Roasted zucchini, bell peppers, and cherry tomatoes tossed with fluffy couscous and lemon zest.",
+    "image": "https://i.ibb.co/PzMpmhGL/new04.webp",
+    "category": "salad",
+    "price": 94,
+    "createdAt": "2025-04-19T05:38:31.393Z",
+    "__v": 0
+  },
+  {
+    "_id": "68033654ea844c83fa069240",
+    "name": "Rainbow Veggie Salad",
+    "recipe": "A crunchy mix of bell peppers, cherry tomatoes, cucumbers, and red cabbage with a zesty lemon vinaigrette.",
+    "image": "https://i.ibb.co/qLZpDR6Y/salad11.png",
+    "category": "salad",
+    "price": 108,
+    "createdAt": "2025-04-19T05:36:20.322Z",
+    "__v": 0
+  },
+  {
+    "_id": "68033626ea844c83fa06923a",
+    "name": "Garden Fresh Greens",
+    "recipe": "Cherry tomatoes, mixed lettuce, cucumber, and carrots with a basil vinaigrette.",
+    "image": "https://i.ibb.co/vx2jdy4M/salad9.png",
+    "category": "salad",
+    "price": 59,
+    "createdAt": "2025-04-19T05:35:34.217Z",
+    "__v": 0
+  },
+  {
+    "_id": "680335ccea844c83fa069236",
+    "name": "Asian Crunch Salad",
+    "recipe": "Shredded cabbage, cherry tomatoes, carrots, edamame, and sesame seeds in a soy-ginger glaze",
+    "image": "https://i.ibb.co/PvnXcmsy/salad8.webp",
+    "category": "salad",
+    "price": 48,
+    "createdAt": "2025-04-19T05:34:04.543Z",
+    "__v": 0
+  },
+  {
+    "_id": "68033568ea844c83fa069230",
+    "name": "Broccoli Crunch Salad",
+    "recipe": "Raw broccoli florets with sunflower seeds and cranberries in a tangy dressing.",
+    "image": "https://i.ibb.co/5gGBxhS8/salad7.png",
+    "category": "salad",
+    "price": 54,
+    "createdAt": "2025-04-19T05:32:24.386Z",
+    "__v": 0
+  },
+  {
+    "_id": "68033514ea844c83fa069226",
+    "name": "Greek Salad",
+    "recipe": "Crisp cucumbers, tomatoes, olives, and feta tossed in a tangy vinaigrette.",
+    "image": "https://i.ibb.co/qL2r5H1Y/salad1.png",
+    "category": "salad",
+    "price": 71,
+    "createdAt": "2025-04-19T05:31:00.136Z",
+    "__v": 0
+  },
+  {
+    "_id": "680334d2ea844c83fa069220",
+    "name": "Caprese Salad",
+    "recipe": "Juicy cherry tomatoes, creamy mozzarella, and fresh basil drizzled with balsamic glaze.",
+    "image": "https://i.ibb.co/pvRQdZCw/salad3.png",
+    "category": "salad",
+    "price": 65,
+    "createdAt": "2025-04-19T05:29:54.018Z",
+    "__v": 0
+  },
+  {
+    "_id": "68033482ea844c83fa06921c",
+    "name": "Grilled Chicken Salad",
+    "recipe": "Juicy grilled chicken over mixed greens with cherry tomatoes and balsamic drizzle.",
+    "image": "https://i.ibb.co/vrVJF5p/salad.png",
+    "category": "salad",
+    "price": 53,
+    "createdAt": "2025-04-19T05:28:34.723Z",
+    "__v": 0
+  },
+  {
+    "_id": "68033310ea844c83fa0691ee",
+    "name": "Farmhouse Pizza",
+    "recipe": "A rustic mix of capsicum, onion, tomato, and mushrooms with cheesy goodness.",
+    "image": "https://i.ibb.co/ZR9cBSS3/pizz9.webp",
+    "category": "pizza",
+    "price": 78,
+    "createdAt": "2025-04-19T05:22:24.483Z",
+    "__v": 0
+  },
+  {
+    "_id": "680332d0ea844c83fa0691ea",
+    "name": "Pesto Veggie Pizza",
+    "recipe": "Fresh basil pesto base with sun-dried tomatoes, zucchini, and feta.",
+    "image": "https://i.ibb.co/ZpznDFMQ/pizza.png",
+    "category": "pizza",
+    "price": 102,
+    "createdAt": "2025-04-19T05:21:20.816Z",
+    "__v": 0
+  },
+  {
+    "_id": "6803328bea844c83fa0691e6",
+    "name": "Mexican Fiesta Pizza",
+    "recipe": "Bursting with jalapeños, corn, beans, and zesty salsa for a spicy kick.",
+    "image": "https://i.ibb.co/zhmcTQW4/pizz2.webp",
+    "category": "pizza",
+    "price": 87,
+    "createdAt": "2025-04-19T05:20:11.142Z",
+    "__v": 0
+  },
+  {
+    "_id": "68033257ea844c83fa0691e2",
+    "name": "Four Cheese Pizza",
+    "recipe": "A rich mix of mozzarella, cheddar, parmesan, and blue cheese for cheese lovers.",
+    "image": "https://i.ibb.co/nsyYgnY0/pizz4.jpg",
+    "category": "pizza",
+    "price": 119,
+    "createdAt": "2025-04-19T05:19:19.739Z",
+    "__v": 0
+  },
+  {
+    "_id": "68033233ea844c83fa0691de",
+    "name": "Veggie Delight Pizza",
+    "recipe": "Topped with colorful bell peppers, mushrooms, olives, and onions on a tomato base.",
+    "image": "https://i.ibb.co/kgXFVJFt/pizz1.jpg",
+    "category": "pizza",
+    "price": 108,
+    "createdAt": "2025-04-19T05:18:43.279Z",
+    "__v": 0
+  },
+  {
+    "_id": "68033202ea844c83fa0691da",
+    "name": "BBQ Chicken Pizza",
+    "recipe": "Smoky barbecue sauce, grilled chicken, onions, and cilantro for a sweet-savory twist.",
+    "image": "https://i.ibb.co/F4qV5tCR/pizz11.jpg",
+    "category": "pizza",
+    "price": 120,
+    "createdAt": "2025-04-19T05:17:54.600Z",
+    "__v": 0
+  },
+  {
+    "_id": "680331c4ea844c83fa0691d5",
+    "name": "Pepperoni Pizza",
+    "recipe": "Loaded with spicy pepperoni and gooey cheese for a bold, flavorful bite.",
+    "image": "https://i.ibb.co/xtrH5Hbt/pizz3.png",
+    "category": "pizza",
+    "price": 86,
+    "createdAt": "2025-04-19T05:16:52.686Z",
+    "__v": 0
+  },
+  {
+    "_id": "68033197ea844c83fa0691d1",
+    "name": "Margherita Pizza",
+    "recipe": "A classic blend of fresh tomatoes, mozzarella, and basil on a thin, crispy crust.",
+    "image": "https://i.ibb.co/Z6Kjfx9q/pizz6.jpg",
+    "category": "pizza",
+    "price": 69,
+    "createdAt": "2025-04-19T05:16:07.039Z",
+    "__v": 0
+  },
+  {
+    "_id": "6803302cea844c83fa0691c0",
+    "name": "Blue Ocean",
+    "recipe": "A tropical drink made with blue curaçao, coconut rum, pineapple juice, and a splash of lemon-lime soda. It's a cool, refreshing beverage with an ocean-blue color.",
+    "image": "https://i.ibb.co/QvxrxvDb/dk5.png",
+    "category": "drinks",
+    "price": 29,
+    "createdAt": "2025-04-19T05:10:04.824Z",
+    "__v": 0
+  },
+  {
+    "_id": "68032f8aea844c83fa0691b6",
+    "name": "Blue Lagoon",
+    "recipe": "A tropical and refreshing cocktail made with blue curaçao, vodka, and lemonade, served over ice. It's sweet, citrusy, and the perfect vibrant blue drink for any summer party.",
+    "image": "https://i.ibb.co/DfMv5zY2/dk3.jpg",
+    "category": "drinks",
+    "price": 36,
+    "createdAt": "2025-04-19T05:07:22.963Z",
+    "__v": 0
+  },
+  {
+    "_id": "68032ef5ea844c83fa06919f",
+    "name": "Ginger Mojito",
+    "recipe": "A twist on the classic mojito, this version combines fresh mint, lime, and ginger, topped with soda water for a crisp, cooling effect with a bit of kick.",
+    "image": "https://i.ibb.co/FLFd0yJC/dk2.jpg",
+    "category": "drinks",
+    "price": 31,
+    "createdAt": "2025-04-19T05:04:53.382Z",
+    "__v": 0
+  },
+  {
+    "_id": "68032e88ea844c83fa069199",
+    "name": "Lemon Mint Fizz",
+    "recipe": "A sparkling drink with zesty lemon and fresh mint, creating a cool and fizzy experience that's both refreshing and invigorating.",
+    "image": "https://i.ibb.co/hRPwr80f/dk6.jpg",
+    "category": "drinks",
+    "price": 23,
+    "createdAt": "2025-04-19T05:03:04.802Z",
+    "__v": 0
+  },
+  {
+    "_id": "68032e18ea844c83fa069180",
+    "name": "Cola Fusion",
+    "recipe": "A bold and fizzy cola-like beverage with a rich, caramel flavor and a hint of citrus, offering a refreshing twist on the classic cola experience.",
+    "image": "https://i.ibb.co/DDCbXV5Z/dk1.jpg",
+    "category": "drinks",
+    "price": 15,
+    "createdAt": "2025-04-19T05:01:12.960Z",
+    "__v": 0
+  },
+  {
+    "_id": "68032d27ea844c83fa069166",
+    "name": "Momo's",
+    "recipe": "Momo is a flavorful dumpling filled with minced meat or vegetables, typically steamed or fried and served with a spicy dipping sauce.",
+    "image": "https://i.ibb.co/MDcTxZ6t/new2.png",
+    "category": "popular",
+    "price": 10,
+    "createdAt": "2025-04-19T04:57:11.184Z",
+    "__v": 0
+  }
+]

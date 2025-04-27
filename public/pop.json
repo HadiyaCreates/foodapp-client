@@ -1,0 +1,43 @@
+[
+  
+  {
+    "_id": "68032e88ea844c83fa069199",
+    "name": "Lemon Mint Fizz",
+    "recipe": "A sparkling drink with zesty lemon and fresh mint, creating a cool and fizzy experience that's both refreshing and invigorating.",
+    "image": "https://i.ibb.co/hRPwr80f/dk6.jpg",
+    "category": "drinks",
+    "price": 23,
+    "createdAt": "2025-04-19T05:03:04.802Z",
+    "__v": 0
+  },
+  {
+    "_id": "68033257ea844c83fa0691e2",
+    "name": "Four Cheese Pizza",
+    "recipe": "A rich mix of mozzarella, cheddar, parmesan, and blue cheese for cheese lovers.",
+    "image": "https://i.ibb.co/nsyYgnY0/pizz4.jpg",
+    "category": "pizza",
+    "price": 119,
+    "createdAt": "2025-04-19T05:19:19.739Z",
+    "__v": 0
+  },
+  {
+    "_id": "68033654ea844c83fa069240",
+    "name": "Rainbow Veggie Salad",
+    "recipe": "A crunchy mix of bell peppers, cherry tomatoes, cucumbers, and red cabbage with a zesty lemon vinaigrette.",
+    "image": "https://i.ibb.co/qLZpDR6Y/salad11.png",
+    "category": "salad",
+    "price": 108,
+    "createdAt": "2025-04-19T05:36:20.322Z",
+    "__v": 0
+  },
+  {
+    "_id": "68033b70ea844c83fa0692c6",
+    "name": "Strawberry Shortcake",
+    "recipe": "A delicate sponge cake layered with fresh strawberries and whipped cream, offering a sweet and refreshing treat for any occasion.",
+    "image": "https://i.ibb.co/JwWVmvW6/ds3.png",
+    "category": "dessert",
+    "price": 267,
+    "createdAt": "2025-04-19T05:58:08.661Z",
+    "__v": 0
+  }
+]
