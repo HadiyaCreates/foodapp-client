@@ -14,7 +14,7 @@ const Order = () => {
       // const res = await fetch(
       //   `https://foodapp-server-myfu.onrender.com/payments?email=${user?.email}`,
       const res = await fetch(
-        `http://localhost:6001/payments?email=${user?.email}`,
+        `https://foodapp-server-myfu.onrender.com/payments?email=${user?.email}`,
         {
           headers: {
             authorization: `Bearer ${token}`,

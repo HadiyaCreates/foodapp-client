@@ -84,7 +84,7 @@ const AuthProvider = ({ children }) => {
       setUser(currentUser);
       if (currentUser) {
         const userInfo = { email: currentUser.email };
-        axios.post("http://localhost:6001/jwt", userInfo).then((response) => {
+        axios.post("https://foodapp-server-myfu.onrender.com/jwt", userInfo).then((response) => {
           //   console.log(response.data.token);
 
           if (response.data.token) {

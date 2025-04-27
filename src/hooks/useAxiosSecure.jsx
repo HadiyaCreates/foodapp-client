@@ -6,7 +6,7 @@ import useAuth from "./useAuth";
 const axiosSecure = axios.create({
   // baseURL: "https://foodapp-server-myfu.onrender.com/",
   // baseURL: import.meta.env.VITE_API_URL,
-  baseURL: "http://localhost:6001",
+  baseURL: "https://foodapp-server-myfu.onrender.com",
 });
 
 const useAxiosSecure = () => {

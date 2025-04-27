@@ -34,7 +34,7 @@ const Cards = ({ item }) => {
       };
 
       axios
-        .post("https://foozdapp-server-myfu.onrender.com/carts", cartItem)
+        .post("https://foodapp-server-myfu.onrender.com/carts", cartItem)
         .then((response) => {
           console.log(response);
           if (response) {
