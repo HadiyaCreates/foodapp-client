@@ -14,7 +14,7 @@ const Order = () => {
       // const res = await fetch(
       //   `https://foodapp-server-myfu.onrender.com/payments?email=${user?.email}`,
       const res = await fetch(
-        `${import.meta.env.VITE_API_URL}/payments?email=${user?.email}`,
+        `http://localhost:6001/payments?email=${user?.email}`,
         {
           headers: {
             authorization: `Bearer ${token}`,
